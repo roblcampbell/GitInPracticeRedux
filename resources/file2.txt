@@ -1,7 +1,7 @@
 This is file 2 in the resources directory
 
 1 : Hello
-2 : There
+2 : there!
 3 : How 
-4 : Are
-5 : You?
+4 : are
+5 : you?
