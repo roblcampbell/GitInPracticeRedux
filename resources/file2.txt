@@ -1,0 +1,7 @@
+This is file 2 in the resources directory
+
+1 : Hello
+2 : There
+3 : How 
+4 : Are
+5 : You?
