@@ -5,3 +5,8 @@ This is file 2 in the resources directory
 3 : How 
 4 : are
 5 : you?
+
+These lines added on Chronos 
+so should be able to merge
+them cleanly
+elsewhere
