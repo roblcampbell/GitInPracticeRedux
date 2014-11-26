@@ -12,3 +12,6 @@ File 1 for git testing
 6 : New line 6, leaving room for a line 5 created elsewhere
 7 : And also a new line 7!
 
+8 : This is my new feature!
+9 : And this is also part of it!
+
