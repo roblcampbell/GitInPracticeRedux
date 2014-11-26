@@ -1,6 +1,8 @@
 File 1 for git testing
 
 1: This is line 1
+1.5 : This is an in-betweener!
+1.6 : Also an in-betweener.
 2: This is line 2
   a : this is subpoint a
 3 : This is line 3
