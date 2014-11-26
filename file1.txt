@@ -8,3 +8,4 @@ File 1 for git testing
 2.5 : This is a new line added from Chronos
 3 : This is line 3
 4 : This line is for fetch testing!
+6 : New line 6, leaving room for a line 5 created elsewhere
